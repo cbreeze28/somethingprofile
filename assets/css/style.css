@@ -11,7 +11,6 @@ p {
   color: #26a69a;
 }
 
-
 .parallax-container {
   min-height: 380px;
   line-height: 0;
@@ -63,3 +62,7 @@ footer.page-footer {
   background-repeat: no-repeat;
   background-size: auto;
 } */
+
+body {
+  background-color: black;
+}
